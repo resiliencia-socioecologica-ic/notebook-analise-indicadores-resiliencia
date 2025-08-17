@@ -8,7 +8,7 @@ Ele foi criado como parte de um projeto de Iniciação Científica (PIBIC/CNPq/I
 
 Este notebook utiliza o sistema de indicadores desenvolvido por Maria Paula Pires de Oliveira em sua pesquisa de doutorado:**"Aprendizagem para resiliência socioecológica de comunidades rurais: sistema de indicadores a partir de uma escola do campo" (Oliveira, 2023)**
 
-**-> [Clique aqui para abrir e executar a ferramenta diretamente no Google Colab.](https://colab.research.google.com/github/resiliencia-socioecologica-ic/notebook-analise-indicadores-resiliencia/blob/main/Ferramenta_de_Análise_de_Indicadores.ipynb)**
+**-> [Clique aqui para abrir e executar a ferramenta diretamente no Google Colab.](https://colab.research.google.com/github/resiliencia-socioecologica-ic/notebook-analise-indicadores-resiliencia/blob/main/Ferramenta_de_Analise_de_Indicadores.ipynb)**
 
 
 ### ✨ Versão Web (Recomendada para Usuários Finais)
