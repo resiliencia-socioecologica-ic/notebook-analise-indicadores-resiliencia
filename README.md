@@ -34,7 +34,7 @@ Este notebook é a versão técnica original. Para uma experiência mais complet
 * **Autor:** Gabriel de Antonio Mazetto (PUC-Campinas, Bolsista PIBIC/CNPq)
 * **Orientadora:** Dra. Minella Alves Martins (INPE)
 * **Co-orientadora:** Dra. Maria Paula Pires de Oliveira (PUC-Campinas) 
-* **Colaboradora:** Denise Helena Lombardo Ferreira (PUC-Campinas)
+* **Colaboradora:** Dra. Denise Helena Lombardo Ferreira (PUC-Campinas)
 
 **Apoio Institucional:**
 Este trabalho foi elaborado com apoio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (bolsa PIBIC/CNPq/INPE) e da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) – Código de Financiamento 001.
